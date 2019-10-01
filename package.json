@@ -1,0 +1,32 @@
+{
+  "name": "Bot",
+  "version": "1.0.0",
+  "description": "A Twitter bot that can move servos using johnny five ",
+  "main": "bot.js",
+  "dependencies": {
+    "johnny-five": "^0.10.13",
+    "node-rest-client": "^2.0.1",
+    "twitter": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js",
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "js",
+    "twitter",
+    "bot"
+  ],
+  "author": "Andrés Santa María Norero",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "http://www.toob.cl"
+}
