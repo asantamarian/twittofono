@@ -20,7 +20,7 @@ var init = function(props){
 var initBoard = function(){
   board.on("ready", function() {
         servoC = new five.Servo({
-          pin:1,
+          pin:10,
           center:true
         });
         
