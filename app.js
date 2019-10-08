@@ -26,25 +26,25 @@ var hashtags = new Array(
           eng:"#globalwarming",spa:"#calentamientoglobal",song:"C"
         },
         {
-          eng:"#climatechange",spa:"#cambioclimatico",song:"D"
+          eng:"#climatechange",spa:"#cambioclimatico",song:"C D"
         },
         {
-          eng:"#beforetheflood",spa:"#antesdelainundacion",song:"E"
+          eng:"#beforetheflood",spa:"#antesdelainundacion",song:"C D E"
         },
         {
-          eng:"#environment",spa:"#medioambiente",song:"F"
+          eng:"#environment",spa:"#medioambiente",song:"C D E F"
         },
         {
-          eng:"#climate",spa:"#clima",song:"G"
+          eng:"#climate",spa:"#clima",song:"C D E F G"
         },
         {
-          eng:"#water",spa:"#agua",song:"A"
+          eng:"#water",spa:"#agua",song:"C D E F G A"
         },
         {
-          eng:"#sustainable",spa:"#sustentable",song:"B"
+          eng:"#sustainable",spa:"#sustentable",song:"C D E F G A B"
         },
         {
-          eng:"#greencity",spa:"#ecociudad",song:"CM"
+          eng:"#greencity",spa:"#ecociudad",song:"C D E F G A B CM"
         },
         {
           eng:"#trololo",spa:"#trololo",song:"CM - G - F - G - C - D - E - G - E - D - G A B CM - G - F - G - - C - D - E - E - E - D - C - G A B CM B - B G A - A F G - C D E F D"
