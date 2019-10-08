@@ -23,25 +23,25 @@ var track = "#sustentable,\
 
 var hashtags = new Array(
         {
-          eng:"#globalwarming",spa:"#calentamientoglobal",song:"C F"
+          eng:"#globalwarming",spa:"#calentamientoglobal",song:"C"
         },
         {
-          eng:"#climatechange",spa:"#cambioclimatico",song:"D G"
+          eng:"#climatechange",spa:"#cambioclimatico",song:"D"
         },
         {
-          eng:"#climate",spa:"#clima",song:"E C"
+          eng:"#climate",spa:"#clima",song:"E"
         },
         {
-          eng:"#environment",spa:"#medioambiente",song:"F CM"
+          eng:"#environment",spa:"#medioambiente",song:"F"
         },
         {
-          eng:"#climate",spa:"#clima",song:"G A"
+          eng:"#climate",spa:"#clima",song:"G"
         },
         {
-          eng:"#water",spa:"#agua",song:"A E"
+          eng:"#water",spa:"#agua",song:"A"
         },
         {
-          eng:"#sustainable",spa:"#sustentable",song:"B F"
+          eng:"#sustainable",spa:"#sustentable",song:"B"
         },
         {
           eng:"#greencity",spa:"#ecociudad",song:"CM"
