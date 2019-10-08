@@ -23,25 +23,25 @@ var track = "#sustentable,\
 
 var hashtags = new Array(
         {
-          eng:"#globalwarming",spa:"#calentamientoglobal",song:"C"
+          eng:"#globalwarming",spa:"#calentamientoglobal",song:"C F"
         },
         {
-          eng:"#climatechange",spa:"#cambioclimatico",song:"D"
+          eng:"#climatechange",spa:"#cambioclimatico",song:"D G"
         },
         {
-          eng:"#climate",spa:"#clima",song:"E"
+          eng:"#climate",spa:"#clima",song:"E C"
         },
         {
-          eng:"#environment",spa:"#medioambiente",song:"F"
+          eng:"#environment",spa:"#medioambiente",song:"F CM"
         },
         {
-          eng:"#climate",spa:"#clima",song:"G"
+          eng:"#climate",spa:"#clima",song:"G A"
         },
         {
-          eng:"#water",spa:"#agua",song:"A"
+          eng:"#water",spa:"#agua",song:"A E"
         },
         {
-          eng:"#sustainable",spa:"#sustentable",song:"B"
+          eng:"#sustainable",spa:"#sustentable",song:"B F"
         },
         {
           eng:"#greencity",spa:"#ecociudad",song:"CM"
@@ -62,7 +62,7 @@ Bot.initBot(botProps);
 
 Twitt.startListening(track,function(twitt){
 	
-	Data.saveTwitt(twitt);
+	//Data.saveTwitt(twitt);
 	
 	Bot.playTwitt(twitt.text);
 	

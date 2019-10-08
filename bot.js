@@ -65,8 +65,8 @@ var initBoard = function(){
         
         
         
-        var notes = "CM - G - F - G - C - D - E - G - E - D - G A B CM - G - F - G - - C - D - E - E - E - D - C - G A B CM B - B G A - A F G - C D E F D";
-        playSong(notes);
+        /*var notes = "CM - G - F - G - C - D - E - G - E - D - G A B CM - G - F - G - - C - D - E - E - E - D - C - G A B CM B - B G A - A F G - C D E F D";
+        playSong(notes);*/
 
 
   
