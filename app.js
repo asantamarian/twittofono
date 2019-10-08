@@ -2,33 +2,49 @@ var Twitt = require("./twitt") ;
 var Bot = require("./bot.js") ;
 var Data = require("./data.js") ;
 
-var track = "#uvm,\
-#uvm2017,\
-#soyuvm2017,\
-#comomeveoen10años?,\
-#yoen10años,\
-#uvmludico,\
-#espacioludico,\
+var track = "#sustentable,\
+#sustainable,\
+#energy,\
+#globalwarming,\
+#calentamientoglobal,\
+#climatechange,\
+#cambioclimatico,\
+#beforetheflood,\
+#antesdelainundacion,\
+#environment,\
+#medioambiente,\
+#climate,\
+#clima,\
+#water,\
+#agua,\
+#greencity,\
+#ecociudad,\
 #twittofono";
 
 var hashtags = new Array(
         {
-          eng:"#uvm",spa:"#uvm",song:"A D E C G"
+          eng:"#globalwarming",spa:"#calentamientoglobal",song:"C"
         },
         {
-          eng:"#uvm2017",spa:"#uvm2017",song:"E A B G C"
+          eng:"#climatechange",spa:"#cambioclimatico",song:"D"
         },
         {
-          eng:"#soyuvm2017",spa:"#soyuvm2017",song:"D A G C A"
+          eng:"#beforetheflood",spa:"#antesdelainundacion",song:"E"
         },
         {
-          eng:"#comomeveoen10años?",spa:"#comomeveoen10años?",song:"G A B D D G"
+          eng:"#environment",spa:"#medioambiente",song:"F"
         },
         {
-          eng:"#yoen10años",spa:"#yoen10años",song:"A B A C G"
+          eng:"#climate",spa:"#clima",song:"G"
         },
         {
-          eng:"#uvmludico",spa:"#uvmludico",song:"C D E F G A B CM"
+          eng:"#water",spa:"#agua",song:"A"
+        },
+        {
+          eng:"#sustainable",spa:"#sustentable",song:"B"
+        },
+        {
+          eng:"#greencity",spa:"#ecociudad",song:"CM"
         },
         {
           eng:"#trololo",spa:"#trololo",song:"CM - G - F - G - C - D - E - G - E - D - G A B CM - G - F - G - - C - D - E - E - E - D - C - G A B CM B - B G A - A F G - C D E F D"
